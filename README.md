@@ -1,3 +1,4 @@
+This is a fork of karpathy/nanoGPT with additional configs to train on the Hitchiker's Ultimate Guide. I mostly did this as a learning exersize, but someone somewhere might find it useful.
 
 # nanoGPT
 
